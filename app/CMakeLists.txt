@@ -1,2 +1,2 @@
-add_executable(adder_app adder_app.cpp)
-target_link_libraries(adder_app PRIVATE adder)
+add_executable(questions_app questions_app.cpp)
+target_link_libraries(questions_app PRIVATE questions)

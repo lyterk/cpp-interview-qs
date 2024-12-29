@@ -1,14 +1,14 @@
 /**
- * @brief One line description of the adder library
+ * @brief One line description of the questions library
  *
- * More information about the adder library
+ * More information about the questions library
  * can go here.
  *
  * @see https://github.com/ssciwr/cpp-project-template
  */
 #pragma once
 
-namespace adder {
+namespace questions {
 
 /**
  * @brief One line description of add_one goes here
